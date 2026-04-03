@@ -1,1 +1,191 @@
+body{
+  background-color: #f8b6c4;
+  background: linear-gradient(pink,white);
+  background-attachment: fixed;
+  background:radial-gradient(#f38292 2px,transparent 0px);
+  background-size: 50px 50px;
+  text-align: justify;
+  font-family: Georgia;
+      perspective: 1500px;
+}
+h1{
+  background-color: white;
+  padding: 20px;
+  margin: 20px;
+  border-radius:25px ;
+  box-shadow: 10px 10px 15px #f18bb6;
+  color: pink;
+  border: 2px solid hotpink;
+  font-family: Times New Roman;
+  font-weight: bold;
+  
+}
+.container2{
+  background-color:  pink;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 25px;
+  box-shadow: 10px 10px 15px #f18bb6;
+  color: white;
+  transition:0.4s;
+}
+.container2:hover{
+  transform: scale(1.1);
+  border: 2px solid hotpink;
+  box-shadow: 0px 0px 15px solid hotpink;
+}
+o1{
+  list-style: decimal;
+}
+.container{
+  background-color: white;
+  background: linear-gradient(pink,white);
+  border-radius: 25px;
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 10px 10px 15px #f18bb6;
+  color: black;
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+      transform: rotateY(0deg);
+      margin-bottom: 30px;
+      perspective: 1000px;
+  
+}
+.container:hover{
+    border: 2px solid hotpink;
+    box-shadow: 0px 0px 15px hotpink;
+    transition: 0.4s;
+    transform: scale(1.1); 
+}
+hr{
+  border: none;
+  height: 3px;
+  background-color: white;
+}
+h3{
+  font-family: Arial;
+}
+.container3{
+  background-color:pink  ;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 25px;
+  box-shadow: 10px 10px 15px #f18bb6;
+  color: white;
+  background: linear-gradient(#f18bb6,pink);
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+      transform: rotateY(0deg);
+      margin-bottom: 30px;
+      perspective: 1000px;
+  
+}
+.container3:hover{
+    border: 2px solid hotpink;
+    box-shadow: 0px 0px 15px hotpink;
+    transition: 0.4s;
+    transform: scale(1.1); 
+}
+  .mapelmenarik{
+  background-color:pink  ;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 25px;
+  box-shadow: 10px 10px 15px #f18bb6;
+  color: white;
+  background: linear-gradient(#f18bb6,pink);
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+      transform: rotateY(0deg);
+      margin-bottom: 30px;
+      perspective: 1000px;
+  
+}
+.mapelmenarik:hover{
+  border: 2px solid hotpink;
+    box-shadow: 0px 0px 15px hotpink;
+    transition: 0.4s;
+    transform: scale(1.1);
+}
+.MyLittleStory{
+  background-color:pink  ;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 25px;
+  box-shadow: 10px 10px 15px #f18bb6;
+  color: white;
+  background: linear-gradient(#f18bb6,pink);
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+      transform: rotateY(0deg);
+      margin-bottom: 30px;
+      
+}
+.MyLittleStory:hover{
+  border: 2px solid hotpink;
+    box-shadow: 0px 0px 15px hotpink;
+    transition: 0.4s;
+    transform: scale(1.1);
+}
+.penutup{
+  background-color:pink  ;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 25px;
+  box-shadow: 10px 10px 15px #f18bb6;
+  color: white;
+  background: linear-gradient(#f18bb6,pink);
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+      transform: rotateY(0deg) 
+      margin-bottom: 30px;
+      perspective: 1000px;
+}
+.penutip:hover{
+   border: 2px solid pink ;
+   box-shadow :0px 0px 15px hotpink;
+   transition: 0.4s;
+   transform: scale(1.1);
+}
 
+.btn{
+  background-color: #f18bb6;
+  box-shadow:0px 20px 20px hotpink;
+  padding: 25px 50px;
+  margin: 30px;
+  color: white;
+  border: none;
+  border-radius: 50px;
+  transition: 2.0s;
+  font-size: 25px;
+  font-family: Georgia;
+}
+.btn:hover{
+  
+}
+img{
+  width: 80%;
+  height: 80%;
+  margin: 30px;
+}
+img:hover{
+  border:2px hotpink;
+  transition: 0.5s;
+  transform: scale(1.1);
+}
+.txt{
+  background-color: pink;
+  box-shadow: 10px 10px 20px hotpink;
+  border: 20px;
+  padding: 20px;
+  margin: 30px;
+  border-radius: 20px;
+  border: none;
+  transition: transform 0.5s ease, box-shadow 0.5s ease;
+  transform: rotateY(0de);
+  margin-bottom: 30px;
+  perspective: 1000px;
+  color: white;
+}
+.txt:hover{
+  border: 2px hotpink;
+  transition: 0.5s;
+  transform: scale(1.1);
+  }
+  
